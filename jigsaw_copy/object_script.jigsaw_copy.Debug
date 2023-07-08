@@ -1,0 +1,12 @@
+INPUT(
+./debug\mainscene.o
+./debug\gamehelp.o
+./debug\mypushbutton.o
+./debug\gameplayer.o
+./debug\jigsaw.o
+./debug\qrc_res.o
+./debug\moc_mainscene.o
+./debug\moc_gamehelp.o
+./debug\moc_mypushbutton.o
+./debug\moc_gameplayer.o
+);

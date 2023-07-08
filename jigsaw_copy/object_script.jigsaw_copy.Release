@@ -1,0 +1,12 @@
+INPUT(
+./release\mainscene.o
+./release\gamehelp.o
+./release\mypushbutton.o
+./release\gameplayer.o
+./release\jigsaw.o
+./release\qrc_res.o
+./release\moc_mainscene.o
+./release\moc_gamehelp.o
+./release\moc_mypushbutton.o
+./release\moc_gameplayer.o
+);
