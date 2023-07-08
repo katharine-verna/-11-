@@ -1,0 +1,16 @@
+INPUT(
+./debug\qrc_src.o
+./debug\endscene.o
+./debug\gamecontrol.o
+./debug\gamedefine.o
+./debug\gamescene.o
+./debug\mainscene.o
+./debug\musicscore.o
+./debug\note.o
+./debug\startscene.o
+./debug\autoresize.o
+./debug\gamewidget.o
+./debug\moc_endscene.o
+./debug\moc_musicscore.o
+./debug\moc_gamewidget.o
+);

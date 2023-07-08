@@ -1,0 +1,16 @@
+INPUT(
+./release\qrc_src.o
+./release\endscene.o
+./release\gamecontrol.o
+./release\gamedefine.o
+./release\gamescene.o
+./release\mainscene.o
+./release\musicscore.o
+./release\note.o
+./release\startscene.o
+./release\autoresize.o
+./release\gamewidget.o
+./release\moc_endscene.o
+./release\moc_musicscore.o
+./release\moc_gamewidget.o
+);
