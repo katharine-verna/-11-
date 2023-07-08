@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/">
+        <file>audio/EndBGM.mp3</file>
+        <file>audio/HitSoundEffect.wav</file>
+        <file>gif/InterestingCat.gif</file>
+        <file>gif/xinhaichigua.gif</file>
+        <file>img/A.png</file>
+        <file>img/angry.jpg</file>
+        <file>img/B.png</file>
+        <file>img/C.png</file>
+        <file>img/ContinueButton.png</file>
+        <file>img/EndBackGround.png</file>
+        <file>img/F.png</file>
+        <file>img/gaoxing.jpg</file>
+        <file>img/good.jpg</file>
+        <file>img/high.jpg</file>
+        <file>img/littleangry.jpg</file>
+        <file>img/Note.png</file>
+        <file>img/Pbackground.png</file>
+        <file>img/phi.png</file>
+        <file>img/pikapika.jpg</file>
+        <file>img/QuitButton.png</file>
+        <file>img/S.png</file>
+        <file>img/smile.jpg</file>
+        <file>img/soperfect.jpg</file>
+        <file>img/StopButton50.png</file>
+        <file>img/Title1.png</file>
+        <file>img/Title2.png</file>
+        <file>img/Title3.png</file>
+        <file>img/Title4.png</file>
+        <file>img/TrackA75.png</file>
+        <file>img/TrackB75.png</file>
+        <file>img/TrackC75.png</file>
+        <file>img/V.png</file>
+        <file>img/xongyongdexiao.jpg</file>
+        <file>img/yun.jpg</file>
+        <file>MusicScore/DossolesHoliday.mp3</file>
+        <file>MusicScore/DossolesHoliday.png</file>
+        <file>MusicScore/DossolesHoliday.txt</file>
+        <file>MusicScore/WuRenQu.mp3</file>
+        <file>MusicScore/WuRenQu.txt</file>
+        <file>MusicScore/sakura-background.png</file>
+    </qresource>
+</RCC>
