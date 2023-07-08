@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>picturefruit/watermelon.png</file>
+        <file>picturefruit/apple.png</file>
+        <file>picturefruit/banana.png</file>
+        <file>picturefruit/bomb.png</file>
+        <file>picturefruit/background.jpg</file>
+        <file>picturefruit/knife.png</file>
+        <file>picturefruit/bomb-1.png</file>
+        <file>picturefruit/bomb-2.png</file>
+        <file>picturefruit/bomb-3.png</file>
+        <file>picturefruit/bomb-4.png</file>
+        <file>picturefruit/bomb-5.png</file>
+        <file>picturefruit/bomb-6.png</file>
+        <file>picturefruit/icon.png</file>
+        <file>picturefruit/icon-1.png</file>
+        <file>picturefruit/icon-2.png</file>
+        <file>picturefruit/icon-3.png</file>
+        <file>picturefruit/appleleft.png</file>
+        <file>picturefruit/appleright.png</file>
+        <file>picturefruit/bananaleft.png</file>
+        <file>picturefruit/bananaright.png</file>
+        <file>picturefruit/watermelonleft.png</file>
+        <file>picturefruit/watermelonright.png</file>
+        <file>picturefruit/backgroundgreen1.jpg</file>
+    </qresource>
+</RCC>
